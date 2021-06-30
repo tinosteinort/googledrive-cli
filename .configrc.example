@@ -1,0 +1,3 @@
+# place '.configrc' in directory '~/.googledrive-cli/'
+CLIENT_ID=<client-id>
+CLIENT_SECRET=<client-password>
